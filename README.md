@@ -18,6 +18,7 @@ Allure Reports
 Maven / Node.js
 CI/CD ready (Jenkins / GitHub Actions)
 ⚙️ Features
+```
 ✔ Framework Design
 Page Object Model (POM)
 Locator-based reusable components
@@ -37,6 +38,7 @@ Externalized test data
 ✔ Execution
 Parallel test execution
 Cross-browser support
+```
 📊 Example Use Cases
 Regression testing
 Smoke testing
