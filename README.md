@@ -1,4 +1,4 @@
-[qa-automation-portfolio-readme.md](https://github.com/user-attachments/files/27145397/qa-automation-portfolio-readme.md)[Uploading # 🚀 QA Automation Framework Portfolio (Core + Test Project)
+🚀 QA Automation Framework Portfolio (Core + Test Project)
 
 ## 📌 Overview
 
@@ -107,7 +107,6 @@ qa-test-project
 
 # 📌 Author
 QA Automation Engineer focused on scalable test automation frameworks.
-qa-automation-portfolio-readme.md…]()
 
 ### 📬 Connect
 - GitHub: https://github.com/ravi005e
