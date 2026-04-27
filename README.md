@@ -4,7 +4,7 @@ Overview
 This project is a scalable and maintainable test automation framework designed for web application testing using modern QA engineering principles.
 
 It supports:
-
+```
 Locator-based architecture
 Parallel execution
 Data-driven testing
@@ -18,7 +18,6 @@ Allure Reports
 Maven / Node.js
 CI/CD ready (Jenkins / GitHub Actions)
 ⚙️ Features
-```
 ✔ Framework Design
 Page Object Model (POM)
 Locator-based reusable components
@@ -38,12 +37,12 @@ Externalized test data
 ✔ Execution
 Parallel test execution
 Cross-browser support
-```
 📊 Example Use Cases
 Regression testing
 Smoke testing
 CI/CD validation pipelines
 Cross-browser validation
+```
 🚀 Goal of This Framework
 
 To reduce regression effort, improve test stability, and enable scalable automation across teams.
