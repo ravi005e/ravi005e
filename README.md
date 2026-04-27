@@ -91,7 +91,8 @@ qa-test-project
 - TestNG / JUnit  
 - Maven  
 - Allure Reporting  
-- CSV / Excel / JSON support  
+- CSV / Excel / JSON support
+- Appium
 
 ---
 
