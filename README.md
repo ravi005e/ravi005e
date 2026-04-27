@@ -1,56 +1,50 @@
-## Hi, I'm Ravi 👋
+🚀 QA Automation Framework (Playwright + Selenium Hybrid)
+Overview
 
-Senior QA / SDET with a strong focus on **automation framework design**, **CI/CD quality**, and **scalable test strategies** for SaaS products.
+This project is a scalable and maintainable test automation framework designed for web application testing using modern QA engineering principles.
 
-### 🔧 What I Work With
-- Java, Typescript, WeddriverIO, Playwright, Selenium, TestNG, RestAssured
-- API & UI Automation
-- CI/CD (Docker, Jenkins, GitHub Actions)
-- Thread-safe browser & context management
-- Failure diagnostics (screenshots, logs, reports) 
-- Allure Reporting
+It supports:
 
-### 🧠 What I Care About
-- Engineering quality into the product
-- Fast feedback loops
-- Reliable, maintainable automation
+Locator-based architecture
+Parallel execution
+Data-driven testing
+Custom assertions
+Allure reporting integration
+🧰 Tech Stack
+Java / TypeScript / Python
+Playwright / Selenium WebDriver
+TestNG / Pytest
+Allure Reports
+Maven / Node.js
+CI/CD ready (Jenkins / GitHub Actions)
+⚙️ Features
+✔ Framework Design
+Page Object Model (POM)
+Locator-based reusable components
+Clean separation of test logic and framework
+✔ Stability Improvements
+Smart waits (no hard sleeps)
+Retry mechanism for flaky tests
+Stable locator strategy
+✔ Reporting
+Allure reporting with:
+Screenshots on failure
+Step-level logging
+Execution timeline
+✔ Data-Driven Testing
+Supports CSV / Excel / JSON inputs
+Externalized test data
+✔ Execution
+Parallel test execution
+Cross-browser support
+📊 Example Use Cases
+Regression testing
+Smoke testing
+CI/CD validation pipelines
+Cross-browser validation
+🚀 Goal of This Framework
 
-## 🧠 Design Philosophy
-
-- **Quality is engineered, not inspected**
-- Automation should support fast releases, not slow them down
-- Prefer deterministic tests over brittle UI checks
-- Treat test code as production code
-
-
-### 📂 Featured Work
-```
-  qa-automation-portfolio/
-  │
-  ├── ui-automation/
-  │ ├── src/main/java/
-  │ │ ├── core/ # Driver, browser, context management
-  │ │ ├── config/ # Env & runtime configs
-  │ │ ├── pages/ # Page Objects / Locators
-  │ │ ├── assertions/ # Custom expect-style assertions
-  │ │ └── utils/
-  │ │
-  │ ├── src/test/java/
-  │ │ └── tests/
-  │ │
-  │ └── README.md
-  │
-  ├── api-automation/
-  │ ├── src/main/java/
-  │ ├── src/test/java/
-  │ └── README.md
-  │
-  ├── ci-cd/
-  │ ├── docker/
-  │ └── pipeline-examples/
-  │
-  └── README.md ← main README
-```
+To reduce regression effort, improve test stability, and enable scalable automation across teams.
 
 ### 📬 Connect
 - GitHub: https://github.com/ravi005e
